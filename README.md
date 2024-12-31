@@ -26,7 +26,7 @@
    - [GitHub 저장소](https://github.com/daeryuk/english-test.git)
 
 2. MusicsheetToPPT
-   - 악보를 PPT로 변환하는 프로그램
+   - 노래가사를 PPT로 변환하는 프로그램
    - [GitHub 저장소](https://github.com/daeryuk/MusicSheetToPPT.git)
 
 3. 미용실 예약 웹페이지
