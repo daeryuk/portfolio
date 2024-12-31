@@ -2,7 +2,7 @@
 
 ## 소개
 호기심 많은 BackEnd developer 김대륙입니다.
-
+[포트폴리오 바로가기](https://daeryuk.github.io/portfolio/)
 ## 인적사항
 - 이름: 김대륙
 - 생년월일: 2002년 11월 11일
